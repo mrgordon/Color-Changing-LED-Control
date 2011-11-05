@@ -1,0 +1,3 @@
+This provides a software interface for controlling color changing lights over the DMX512 protocol.
+The different lighting modes are functions that can be chained together to produce complex and
+entertaining photon displays. Sorry it's ugly Python :/
